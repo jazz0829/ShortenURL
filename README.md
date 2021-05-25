@@ -5,7 +5,7 @@
 
 ### Step 2:
 ##### Go to "./ShortenURL_API/ShortenURL_API/Web.config" adjust the connection string.
-mainly update the Data Source & Initial Catalog.
+<b>mainly update the Data Source & Initial Catalog.</b>
 
 ### Step 3:
 ##### Launch the ShortenURL_API
