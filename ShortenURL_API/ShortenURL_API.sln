@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortenURL_API", "ShortenURL_API\ShortenURL_API.csproj", "{646590BD-48B0-4D3B-8272-C010F1B604ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646590BD-48B0-4D3B-8272-C010F1B604ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646590BD-48B0-4D3B-8272-C010F1B604ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646590BD-48B0-4D3B-8272-C010F1B604ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646590BD-48B0-4D3B-8272-C010F1B604ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B8FE601-9A1B-455E-BDEA-B03672133FAE}
+	EndGlobalSection
+EndGlobal
